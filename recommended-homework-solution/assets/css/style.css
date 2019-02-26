@@ -218,8 +218,7 @@ input[type=submit] {
 
 @media screen and (max-width: 640px) {
   nav {
-    position:relative;
-    left: -170px;
+    padding-right: 100px;
     top: -10px;
     font-size: 20px;
   }
